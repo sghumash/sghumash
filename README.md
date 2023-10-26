@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C and in FUTURE C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-- strappingboi  insta
+- gitahanramatcheli  insta
 
 <!---
 sghumash/sghumash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
